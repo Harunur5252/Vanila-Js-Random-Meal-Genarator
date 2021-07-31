@@ -1,0 +1,20 @@
+{
+  "name": "random_meal_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harunur5252/Vanila-Js-Random-Meal-Genarator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harunur5252/Vanila-Js-Random-Meal-Genarator/issues"
+  },
+  "homepage": "https://github.com/Harunur5252/Vanila-Js-Random-Meal-Genarator#readme"
+}
