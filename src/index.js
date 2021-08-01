@@ -1,1 +1,3 @@
-console.log("Hello World!");
+import ui from "./modules/ui";
+
+ui.loadEventListener()
